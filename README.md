@@ -1,4 +1,4 @@
-I'm a software engineer driven by curiosity, adaptability, and a passion for solving real-world problems. I thrive on tackling challenging engineering tasks—from building secure, scalable systems to experimenting with AI solutions like LLM-powered applications and time series forecasting models.
+I'm a software engineer driven by curiosity, adaptability, and a passion for solving real-world problems. I thrive on tackling challenging engineering tasks—from building secure, scalable systems to experimenting with AI solutions.
 
 I've built full-stack applications, modernized legacy systems using clean architecture principles, and contributed to cloud-native platforms with automated CI/CD workflows. I enjoy diving deep into complex tools, learning new technologies quickly, and applying them to create practical, high-impact solutions.
 
